@@ -23,20 +23,6 @@ Wineskin relies on [WINE](www.winehq.org) ("WINE Is Not an Emulator") under the 
 
 ## Quick Start
 
-Install [Carthage](https://github.com/Carthage/Carthage) via [Homebrew](https://brew.sh/) to manage the build dependencies:
-
-```bash
-$ brew install carthage
-```
-
-Clone the repository and build the dependencies:
-
-```bash
-$ git clone https://github.com/vitor251093/wineskin.git
-$ cd wineskin/
-$ carthage update
-```
-
 Open `Wineskin.xcworkspace` in Xcode and build:
 
 ```bash
